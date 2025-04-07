@@ -6,7 +6,7 @@
 ## 🔧 Projects Completed  
 1. **Portfolio Website**  
    - Tech: HTML, CSS, JS  
-   - Live: [GitHub Pages](https://yourusername.github.io)  
+   - Live: [GitHub Pages]([https://yourusername.github.io](https://d-m12.github.io/Port-folio-website/))  
 
 ## 🛠️ How to Run?  
 ```bash
